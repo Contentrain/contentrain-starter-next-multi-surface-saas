@@ -4,6 +4,10 @@
 
 Next.js starter for teams that need one content architecture across marketing, app shell, docs, and changelog surfaces.
 
+![Contentrain Next Multi-Surface SaaS cover](./media/cover.png)
+
+![Contentrain Next Multi-Surface SaaS preview](./media/preview.gif)
+
 ## Start
 
 ```bash
