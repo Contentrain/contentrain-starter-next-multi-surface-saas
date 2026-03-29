@@ -49,3 +49,9 @@ Official references:
 - Netlify build command: `pnpm deploy:netlify`
 - Netlify publish directory: framework-managed
 - Keep the publish directory empty in the Netlify UI and let the Next.js runtime be detected automatically
+
+## Netlify Project Creation
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FContentrain%2Fcontentrain-starter-next-multi-surface-saas)
+
+Use `pnpm dlx netlify-cli init` to connect the repository for continuous deployment, or `pnpm dlx netlify-cli link` if the site already exists.
