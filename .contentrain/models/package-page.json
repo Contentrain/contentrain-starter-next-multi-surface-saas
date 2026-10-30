@@ -1,6 +1,7 @@
 {
   "content_path": "docs/packages",
   "domain": "packages",
+  "title_field": "title",
   "fields": {
     "description": {
       "type": "text"

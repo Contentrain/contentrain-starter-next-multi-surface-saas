@@ -1,5 +1,6 @@
 {
   "domain": "product",
+  "title_field": "name",
   "fields": {
     "category": {
       "type": "string"

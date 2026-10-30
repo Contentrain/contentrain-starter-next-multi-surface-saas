@@ -1,6 +1,7 @@
 {
   "content_path": "docs",
   "domain": "docs",
+  "title_field": "title",
   "fields": {
     "description": {
       "type": "text"

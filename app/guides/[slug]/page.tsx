@@ -21,7 +21,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         <Link href="/docs" className="text-link page-backlink">
           Back to docs hub
         </Link>
-        <RenderContent markdown={page.content} />
+        <RenderContent markdown={page.body} />
       </article>
     </DashboardShell>
   );

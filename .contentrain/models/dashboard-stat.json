@@ -1,5 +1,6 @@
 {
   "domain": "app",
+  "title_field": "label",
   "fields": {
     "delta": {
       "type": "string"

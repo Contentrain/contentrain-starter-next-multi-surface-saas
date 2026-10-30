@@ -1,5 +1,6 @@
 {
   "domain": "marketing",
+  "title_field": "name",
   "fields": {
     "billing_hint": {
       "type": "string"
