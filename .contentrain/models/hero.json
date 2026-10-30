@@ -1,5 +1,6 @@
 {
   "domain": "marketing",
+  "title_field": "title",
   "fields": {
     "eyebrow": {
       "type": "string"

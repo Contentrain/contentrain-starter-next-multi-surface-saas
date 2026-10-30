@@ -1,6 +1,7 @@
 {
   "content_path": "docs/reference",
   "domain": "reference",
+  "title_field": "title",
   "fields": {
     "description": {
       "type": "text"

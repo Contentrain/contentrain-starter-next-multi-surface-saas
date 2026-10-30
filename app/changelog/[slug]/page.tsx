@@ -27,7 +27,7 @@ export default async function ChangelogPage({ params }: { params: Promise<{ slug
           Back to operations
         </Link>
         <span className="pill">{entry.release_date}</span>
-        <RenderContent markdown={entry.content} />
+        <RenderContent markdown={entry.body} />
       </article>
     </DashboardShell>
   );

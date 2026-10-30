@@ -1,5 +1,6 @@
 {
   "domain": "product",
+  "title_field": "title",
   "fields": {
     "release_date": {
       "required": true,

@@ -1,6 +1,7 @@
 {
   "content_path": "docs/guides",
   "domain": "guides",
+  "title_field": "title",
   "fields": {
     "description": {
       "type": "text"
