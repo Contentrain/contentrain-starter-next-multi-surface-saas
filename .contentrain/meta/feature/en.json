@@ -1,17 +1,17 @@
 {
   "feature-local": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "feature-parity": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "feature-release": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   }
 }
