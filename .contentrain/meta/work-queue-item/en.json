@@ -1,17 +1,17 @@
 {
   "queue-changelog": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "queue-docs": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "queue-homepage": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   }
 }

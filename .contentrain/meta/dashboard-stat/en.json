@@ -1,17 +1,17 @@
 {
   "stat-docs": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "stat-drift": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   },
   "stat-marketing": {
     "source": "import",
-    "status": "draft",
+    "status": "published",
     "updated_by": "contentrain-starters"
   }
 }
